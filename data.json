@@ -1,0 +1,75 @@
+[
+    {
+      "serviceId": 1,
+      "serviceName": "Winter Coat Fitting for Dogs",
+      "providerName": "PawCare Studio",
+      "providerEmail": "info@pawcare.com",
+      "price": 25,
+      "rating": 4.9,
+      "slotsAvailable": 4,
+      "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+      "image": "https://cloud7.de/cdn/shop/files/C7_HEADER_Desktop_1550px-web.jpg?v=1726663363&width=1950",
+      "category": "Clothing"
+    },
+    {
+      "serviceId": 2,
+      "serviceName": "Winter Grooming & Paw Treatment",
+      "providerName": "CozyPets Grooming",
+      "providerEmail": "hello@cozypets.com",
+      "price": 30,
+      "rating": 4.8,
+      "slotsAvailable": 3,
+      "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+      "image": "https://www.pawpaddogs.co.uk/wp-content/uploads/2023/08/level-2-dog-grooming-course-scaled.jpeg",
+      "category": "Grooming"
+    },
+    {
+      "serviceId": 3,
+      "serviceName": "Thermal Blanket Customization",
+      "providerName": "WarmPaws Tailor Shop",
+      "providerEmail": "contact@warmpaws.com",
+      "price": 20,
+      "rating": 4.7,
+      "slotsAvailable": 5,
+      "description": "Personalized thermal blankets for dogs and cats to ensure maximum warmth during winter.",
+      "image": "https://i5.walmartimages.com/seo/Personalized-Dog-Photo-Blanket-with-Name-Custom-Pet-Picture-Blankets-Throws-Customized-Pet-Photo-Collage-Blanket-for-Adults-Kids-30-to-80-Inches_fe8e2566-18cd-4fb3-aca4-0d32d0877485.b6eb8d77a5720c252637d12d688f4652.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+      "category": "Accessories"
+    },
+    {
+      "serviceId": 4,
+      "serviceName": "Winter Health Check-Up",
+      "providerName": "VetCare Clinic",
+      "providerEmail": "support@vetcare.com",
+      "price": 40,
+      "rating": 5.0,
+      "slotsAvailable": 2,
+      "description": "Full health examination with focus on joint health, coat condition, and immunity for cold weather.",
+      "image": "https://www.safarivet.com/wp-content/uploads/2018/01/Get-your-pets-health-check-up-at-Safarivet-Care-Center-min-768x432.jpg",
+      "category": "Healthcare"
+    },
+    {
+      "serviceId": 5,
+      "serviceName": "Heated Bed Setup Service",
+      "providerName": "CozyNest Pets",
+      "providerEmail": "service@cozynest.com",
+      "price": 35,
+      "rating": 4.6,
+      "slotsAvailable": 6,
+      "description": "Installation of temperature-controlled beds for pets to keep them warm and relaxed.",
+      "image": "https://m.media-amazon.com/images/I/71iB6ksgywL._AC_SL1500_.jpg",
+      "category": "Comfort"
+    },
+    {
+      "serviceId": 6,
+      "serviceName": "Snow Walk Training & Gear",
+      "providerName": "ActivePaws Trainers",
+      "providerEmail": "train@activepaws.com",
+      "price": 28,
+      "rating": 4.8,
+      "slotsAvailable": 4,
+      "description": "Training for safe winter walks with anti-slip gear and snow-resistant leashes.",
+      "image": "https://cdn.shopify.com/s/files/1/0817/1687/1489/files/a90206_TipsForWalkingDogsInSnow_Layers.jpg",
+      "category": "Training"
+    }
+  ]
+  
